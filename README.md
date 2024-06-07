@@ -7,8 +7,8 @@ Porém, caso o GPS não esteja disponível, o app solicita a API IP para recuper
 
 ## Tecnologias Utilizadas
 
-- Flutter
-- Dart
+- Flutter 3.19.6
+- Dart 3.3.4
 - Google Maps API
 - Geolocator Package
 - HTTP Package
