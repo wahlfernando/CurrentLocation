@@ -1,8 +1,9 @@
 # Current Location
 
-Build an app for Flutter to load the current location of the user in the map with and without the device's location feature.
+Aplicativo para Flutter que carrega a localização atual do usuário no mapa com e sem o recurso de localização do dispositivo.
 
-The app needs to use the device's GPS feature and load the location with a pin displayed in the map. However, if the GPS is unavailable, the app must request the IP API in order to retrieve the approximate location and load the pin at this location of the map.
+O aplicativo tem o recurso GPS do dispositivo e carregar a localização com um alfinete exibido no mapa. 
+Porém, caso o GPS não esteja disponível, o app solicita a API IP para recuperar a localização aproximada e carregar o pin neste local do mapa.
 
 ## Tecnologias Utilizadas
 
